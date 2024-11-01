@@ -1,5 +1,5 @@
 # FireFoxUIChanges
-Changes to the FireFox UI via userChrome.css
+My personal changes to the FireFox UI via userChrome.css
 
 ## Installation
 Find your "Profile Folder" via "Burger-Menu" - Help - More troubleshooting information.  
